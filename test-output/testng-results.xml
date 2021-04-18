@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-19T00:26:10 CEST" name="Default suite" finished-at="2021-04-19T00:28:55 CEST" duration-ms="165130">
+    <groups>
+    </groups>
+    <test started-at="2021-04-19T00:26:10 CEST" name="Default test" finished-at="2021-04-19T00:28:55 CEST" duration-ms="165130">
+      <class name="tests.PracticeFormPageTests">
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:10 CEST" name="beforeClass" finished-at="2021-04-19T00:26:14 CEST" duration-ms="4466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:14 CEST" name="setup" finished-at="2021-04-19T00:26:24 CEST" duration-ms="9300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="alertBox()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:24 CEST" name="alertBox" finished-at="2021-04-19T00:26:24 CEST" duration-ms="108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alertBox -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:24 CEST" name="afterTest" finished-at="2021-04-19T00:26:27 CEST" duration-ms="3205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:27 CEST" name="setup" finished-at="2021-04-19T00:26:28 CEST" duration-ms="884" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="changeColorOnDoubleClick()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:28 CEST" name="changeColorOnDoubleClick" finished-at="2021-04-19T00:26:29 CEST" duration-ms="1213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeColorOnDoubleClick -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:29 CEST" name="afterTest" finished-at="2021-04-19T00:26:32 CEST" duration-ms="3246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:32 CEST" name="setup" finished-at="2021-04-19T00:26:33 CEST" duration-ms="945" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clearForm()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:33 CEST" name="clearForm" finished-at="2021-04-19T00:26:34 CEST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearForm -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:34 CEST" name="afterTest" finished-at="2021-04-19T00:26:37 CEST" duration-ms="3221" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:37 CEST" name="setup" finished-at="2021-04-19T00:26:38 CEST" duration-ms="1219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="dragAndDrop()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:38 CEST" name="dragAndDrop" finished-at="2021-04-19T00:26:39 CEST" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dragAndDrop -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:39 CEST" name="afterTest" finished-at="2021-04-19T00:26:43 CEST" duration-ms="4196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:43 CEST" name="setup" finished-at="2021-04-19T00:26:44 CEST" duration-ms="1138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fullPageScreenshot()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:44 CEST" name="fullPageScreenshot" finished-at="2021-04-19T00:26:48 CEST" duration-ms="4266" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fullPageScreenshot -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:48 CEST" name="afterTest" finished-at="2021-04-19T00:26:52 CEST" duration-ms="3535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:52 CEST" name="setup" finished-at="2021-04-19T00:26:53 CEST" duration-ms="1572" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newBrowserTab()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:26:53 CEST" name="newBrowserTab" finished-at="2021-04-19T00:27:01 CEST" duration-ms="7209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newBrowserTab -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:01 CEST" name="afterTest" finished-at="2021-04-19T00:27:05 CEST" duration-ms="4383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:05 CEST" name="setup" finished-at="2021-04-19T00:27:06 CEST" duration-ms="1227" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newBrowserWindow()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:06 CEST" name="newBrowserWindow" finished-at="2021-04-19T00:27:11 CEST" duration-ms="4368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newBrowserWindow -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:11 CEST" name="afterTest" finished-at="2021-04-19T00:27:14 CEST" duration-ms="2950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:14 CEST" name="setup" finished-at="2021-04-19T00:27:14 CEST" duration-ms="814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="newMessageWindow()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:14 CEST" name="newMessageWindow" finished-at="2021-04-19T00:27:14 CEST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newMessageWindow -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:14 CEST" name="afterTest" finished-at="2021-04-19T00:27:18 CEST" duration-ms="3761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:18 CEST" name="setup" finished-at="2021-04-19T00:27:20 CEST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="resizeTextarea()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:20 CEST" name="resizeTextarea" finished-at="2021-04-19T00:27:20 CEST" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resizeTextarea -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:20 CEST" name="afterTest" finished-at="2021-04-19T00:27:23 CEST" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:23 CEST" name="setup" finished-at="2021-04-19T00:27:25 CEST" duration-ms="1773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="screenshotWithTimestamp()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:25 CEST" name="screenshotWithTimestamp" finished-at="2021-04-19T00:27:25 CEST" duration-ms="360" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotWithTimestamp -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:25 CEST" name="afterTest" finished-at="2021-04-19T00:27:31 CEST" duration-ms="5593" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:31 CEST" name="setup" finished-at="2021-04-19T00:27:33 CEST" duration-ms="2687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="screenshotsOfSpecificElements()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:33 CEST" name="screenshotsOfSpecificElements" finished-at="2021-04-19T00:27:39 CEST" duration-ms="5833" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenshotsOfSpecificElements -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:39 CEST" name="afterTest" finished-at="2021-04-19T00:27:43 CEST" duration-ms="3457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:43 CEST" name="setup" finished-at="2021-04-19T00:27:44 CEST" duration-ms="1084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchFunctionalityTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:44 CEST" name="searchFunctionalityTest" finished-at="2021-04-19T00:27:45 CEST" duration-ms="1073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchFunctionalityTest -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:45 CEST" name="afterTest" finished-at="2021-04-19T00:27:51 CEST" duration-ms="6197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:51 CEST" name="setup" finished-at="2021-04-19T00:27:52 CEST" duration-ms="906" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="submitEmptyForm()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:52 CEST" name="submitEmptyForm" finished-at="2021-04-19T00:27:52 CEST" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitEmptyForm -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:52 CEST" name="afterTest" finished-at="2021-04-19T00:27:56 CEST" duration-ms="3869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:56 CEST" name="setup" finished-at="2021-04-19T00:27:57 CEST" duration-ms="834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="submitFormWithAllFieldsFilledIn()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:57 CEST" name="submitFormWithAllFieldsFilledIn" finished-at="2021-04-19T00:27:59 CEST" duration-ms="2042" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormWithAllFieldsFilledIn -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:27:59 CEST" name="afterTest" finished-at="2021-04-19T00:28:02 CEST" duration-ms="3340" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:02 CEST" name="setup" finished-at="2021-04-19T00:28:03 CEST" duration-ms="883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="submitFormWithRequiredFieldsFilledIn()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:03 CEST" name="submitFormWithRequiredFieldsFilledIn" finished-at="2021-04-19T00:28:05 CEST" duration-ms="2335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitFormWithRequiredFieldsFilledIn -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:05 CEST" name="afterTest" finished-at="2021-04-19T00:28:08 CEST" duration-ms="3167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:08 CEST" name="setup" finished-at="2021-04-19T00:28:13 CEST" duration-ms="4402" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="subscribeForNewsletter()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:13 CEST" name="subscribeForNewsletter" finished-at="2021-04-19T00:28:13 CEST" duration-ms="445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subscribeForNewsletter -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:13 CEST" name="afterTest" finished-at="2021-04-19T00:28:17 CEST" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:17 CEST" name="setup" finished-at="2021-04-19T00:28:18 CEST" duration-ms="893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="timingAlert()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:18 CEST" name="timingAlert" finished-at="2021-04-19T00:28:21 CEST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- timingAlert -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:21 CEST" name="afterTest" finished-at="2021-04-19T00:28:25 CEST" duration-ms="4358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:25 CEST" name="setup" finished-at="2021-04-19T00:28:26 CEST" duration-ms="804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyFormPlaceholders()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:26 CEST" name="verifyFormPlaceholders" finished-at="2021-04-19T00:28:26 CEST" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFormPlaceholders -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:26 CEST" name="afterTest" finished-at="2021-04-19T00:28:31 CEST" duration-ms="4904" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:31 CEST" name="setup" finished-at="2021-04-19T00:28:33 CEST" duration-ms="2225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNavLinksText()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:33 CEST" name="verifyNavLinksText" finished-at="2021-04-19T00:28:33 CEST" duration-ms="165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavLinksText -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:33 CEST" name="afterTest" finished-at="2021-04-19T00:28:36 CEST" duration-ms="3070" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:36 CEST" name="setup" finished-at="2021-04-19T00:28:40 CEST" duration-ms="3949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNavURLs()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:40 CEST" name="verifyNavURLs" finished-at="2021-04-19T00:28:40 CEST" duration-ms="139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavURLs -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:40 CEST" name="afterTest" finished-at="2021-04-19T00:28:45 CEST" duration-ms="4702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:45 CEST" name="setup" finished-at="2021-04-19T00:28:46 CEST" duration-ms="949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="waitUntilButtonColorChanges()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:46 CEST" name="waitUntilButtonColorChanges" finished-at="2021-04-19T00:28:51 CEST" duration-ms="5283" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- waitUntilButtonColorChanges -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:51 CEST" name="afterTest" finished-at="2021-04-19T00:28:55 CEST" duration-ms="3462" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:tests.PracticeFormPageTests@460d0a57]" started-at="2021-04-19T00:28:55 CEST" name="afterClass" finished-at="2021-04-19T00:28:55 CEST" duration-ms="146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- tests.PracticeFormPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
